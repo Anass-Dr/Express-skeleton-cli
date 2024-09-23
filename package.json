@@ -11,7 +11,7 @@
     "skeleton-cli": "index.mjs"
   },
   "keywords": [],
-  "author": "",
+  "author": "Anass Drissi",
   "license": "ISC",
   "dependencies": {
     "inquirer": "^11.0.2",
